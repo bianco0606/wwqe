@@ -1,0 +1,6 @@
+quadratic programming problem svm
+https://zhuanlan.zhihu.com/p/36081404
+
+
+Lagrange duality  Lagrangian
+https://zhuanlan.zhihu.com/p/32501517
